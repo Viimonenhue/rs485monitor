@@ -1,8 +1,4 @@
-__pycache__/
-*.pyc
-build/
-dist/
-*.spec
-.venv/
-venv/
-*.log
+pyserial>=3.5
+matplotlib>=3.7
+openpyxl>=3.1
+pyinstaller>=6.0
