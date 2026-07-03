@@ -6,3 +6,4 @@ dist/
 .venv/
 venv/
 *.log
+saved_tests/
